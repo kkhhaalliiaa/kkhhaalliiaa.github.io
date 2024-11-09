@@ -1,0 +1,91 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-image: url(/background.jpeg);
+    background-repeat: no-repeat;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    font-size: 50px;
+}
+
+.calculator{
+    background-color: #e27602d2;
+    position:relative;
+    max-width: 500px;
+    width: 100%;
+    height:600px ;
+    padding:40px 30px;
+    border-radius: 20px;
+    box-shadow: 0px 3px 16px rgba(113, 115, 119, 0.5); 
+}
+
+.btns{
+    display:grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+}
+
+.span{
+    grid-column: span 2;
+}
+
+.input-box{
+    background-color: #ffdbbb;
+    color: #dda15e;
+    font-weight:bold;
+    outline:none;
+    border:none;
+    border: 3px solid #f9cca4;
+    border-radius: 3px;
+    height: 30%;
+    width: 100%;
+    margin-bottom: 15px;
+    font-size: 35px;
+    text-align: end;
+}
+
+.number,.operations ,.delete,#equals{
+    background-color: #606c38;
+    color:#000;
+    font-size: 30px;
+    padding:15px;
+    border-radius: 40px;
+    border:none;
+    cursor: pointer;
+}
+
+.number:hover{
+    background-color: #efcfd4;
+    color: whitesmoke;
+}
+
+
+#clear,#delete,#percent,#divide,#multiplication,#minus,#addition,#equals,#period{
+    background-color: color #dda15e;
+    color:whitesmoke;
+}
+
+#clear:hover, #delete:hover, #percent:hover, #divide:hover, #multiplication:hover, 
+#minus:hover, #addition:hover, #equals:hover, #period:hover {
+    background-color: #ecbdc4 ;
+    color: #000;
+}
+
+@media only screen  and (max-width: 375px){
+    .number,.operations ,.delete,#equals{
+        font-size: 20px;
+        border-radius: 50px;
+    }
+    .btns{
+        grid-gap: 20px;
+    }
+}
