@@ -1,0 +1,11 @@
+If it's your first time using a calculator, all the buttons and options can be a bit scary. But the basics are pretty much the same. Once you learn what the buttons do and how to use them for different calculations, you'll be more than comfortable using your calculator whenever you need it or not.
+
+Step One: 
+Make sure you always clear the input box. Doing this ensures that the calculator is free from any previous calculations that can disrupt your equation from working correctly.
+
+Step Two:
+To perform basic arithmetic on my simple calculator, start by entering the numbers you want to calculate. For addition, press the first number, followed by the “+” button, then enter the second number, and press “=” to display the result. For subtraction, enter the first number, then the “-” button, followed by the second number, and hit “=” to get the answer. Multiplication is done similarly: input the first number, press the “×” button, enter the second number, and press “=” for the result. For division, press the first number, then the “/” button, followed by the second number, and press “=” to see the result. In each case, the “=” button gives you the result of the operation.
+
+Step Three:
+To clear your input or take off the previous entered number,  my simple calculator offers two options. Pressing the “AC” button will clear the current entry on the screen, allowing you to start a new calculation without affecting any previous results. If you want to completely reset the calculator, use the “AC” (All Clear) button. This clears all the calculations. 
+Pressing the “DEL” button will The “Delete” button on a calculator is used to remove the most recent input or character that has been entered, allowing you to correct mistakes without clearing the entire calculation. For example, if you've accidentally typed the wrong number or symbol, pressing the “DEL” button will erase just that specific entry, letting you make the necessary adjustment. This is especially useful during complex calculations when you want to fix a single error without starting over. While the “DEL” button removes individual digits or operations, it doesn’t affect the overall equation until the entire input is corrected or finalized by pressing the “=” button. This feature helps make quick corrections more efficient and reduces the need for resetting the entire calculation.
